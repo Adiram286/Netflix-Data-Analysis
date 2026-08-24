@@ -22,6 +22,18 @@ The dataset contains **8,807 records and 12 columns**.
 | `duration`     | Movie duration / TV seasons |
 | `genre`        | Genres/categories           |
 
+
+## 📥 Dataset Source
+
+The dataset used in this project was obtained from **Kaggle**.
+
+* **Source:** Kaggle
+* **Dataset:** Netflix Movies and TV Shows
+* **File:** `netflix_titles.csv`
+
+The dataset contains information about Netflix movies and TV shows, including their titles, directors, cast, countries, release years, ratings, genres, and descriptions.
+
+
 ## 🛠️ Technologies Used
 
 * Python
