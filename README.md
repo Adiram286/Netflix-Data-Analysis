@@ -20,8 +20,7 @@ The dataset contains **8,807 records and 12 columns**.
 | `release_year` | Original release year       |
 | `rating`       | Content rating              |
 | `duration`     | Movie duration / TV seasons |
-| `listed_in`    | Genres/categories           |
-| `description`  | Title description           |
+| `genre`        | Genres/categories           |
 
 ## 🛠️ Technologies Used
 
@@ -29,7 +28,6 @@ The dataset contains **8,807 records and 12 columns**.
 * Pandas
 * NumPy
 * Matplotlib
-* Seaborn
 * Jupyter Notebook
 
 ## 🔍 Analysis Performed
@@ -84,7 +82,7 @@ Netflix-Data-Analysis/
 Install the required libraries:
 
 ```bash
-pip install pandas numpy matplotlib seaborn jupyter
+pip install pandas numpy matplotlib jupyter
 ```
 
 Then open:
